@@ -13,7 +13,6 @@
 .e, .f, .g, .h {
   width: 50%;
   height: 250px;
-  float: left;
 }
 
 .i {
@@ -22,7 +21,7 @@
 }
 
 .a, .b, .c, .d {
-  border-width: 1px 1px 0 1px;
+  border-bottom-width: 0;
 }
 
 .e, .g {
