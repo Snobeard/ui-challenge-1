@@ -1,0 +1,34 @@
+.a {
+  height: 75px;
+}
+
+.b {
+  height: 150px;
+}
+
+.c, .d {
+  height: 125px;
+}
+
+.e, .f, .g, .h {
+  width: 50%;
+  height: 250px;
+  float: left;
+}
+
+.i {
+  height: 80px;
+
+}
+
+.a, .b, .c, .d {
+  border-width: 1px 1px 0 1px;
+}
+
+.e, .g {
+  border-width: 1px 0px 0px 1px;
+}
+
+.f, .h {
+  border-bottom-width: 0px;
+}
