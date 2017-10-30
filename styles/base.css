@@ -12,6 +12,7 @@ div {
   width: 100%;
   border: 1px solid black;
   background-color: #ccc;
+  float: left;
   overflow: auto;
   position: relative;
 }

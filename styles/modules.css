@@ -4,10 +4,6 @@
     margin: 34px auto;
   }
 
-  div {
-    float: left;
-  }
-
   .a {
     width: 100%;
     height: 100px;
@@ -18,7 +14,6 @@
     height: 600px;
     border-bottom-width: 1px;
     border-right-width: 0px;
-
   }
 
   .c, .d {
